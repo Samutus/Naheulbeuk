@@ -1,0 +1,55 @@
+body
+{
+	background-image: url(./carte.jpg);
+	background-size: cover;
+}
+
+h1.titre
+{
+	text-align: center;
+	color:#123c23;
+	font-family: 'Bree Serif', serif;
+}
+
+h2.titre
+{
+	text-align: center;
+	color:#123c23;
+	font-family: 'Bree Serif', serif;
+}
+
+h4.text-Bhorx
+{
+	text-align: left;
+	color:#000000;
+	font-family: 'Bree Serif', serif;
+}
+
+div.container-width.max-width
+{
+	font-family: 'Righteous', cursive;
+	color:#274B3F;
+}
+
+nav.navbar-light
+{
+	background-color:#123c23;
+}
+
+.navbar-light .navbar-brand, 
+.navbar-light .navbar-nav .nav-link 
+{
+	color:#fff;
+}
+
+.navbar-light .navbar-brand:hover, 
+.navbar-light .navbar-nav .nav-link:hover 
+{
+	color:#BBBDBB;
+}
+
+button.btn-search
+{
+	color:#fff;
+	background-color:#123c23;
+}
